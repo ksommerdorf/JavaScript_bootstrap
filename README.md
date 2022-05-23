@@ -5,15 +5,15 @@ Dana, a journalist, has been tasked with writing about her hometown, McMinnville
 ## Results
 ### Welcome to UFO Sightings: Fact or Fancy?
 
-![home_page](https://user-images.githubusercontent.com/57520471/169732807-be41cf9d-6569-4e43-8cfd-8e893ece01d7.png)
-
 This home page contains Dana's article and a table displaying sighting data.
+
+![home_page](https://user-images.githubusercontent.com/57520471/169732807-be41cf9d-6569-4e43-8cfd-8e893ece01d7.png)
 
 ### How the table filters appear without user input:
 
-![no_search](https://user-images.githubusercontent.com/57520471/169732845-da85637c-4bed-4a56-8eb1-b9ba56d582e3.png)
-
 The placeholder in each search box provides an example of the format for the user to input. The data should be entered as M/DD/YYYY and the city, state, country, and shape should be entered without capital letters.
+
+![no_search](https://user-images.githubusercontent.com/57520471/169732845-da85637c-4bed-4a56-8eb1-b9ba56d582e3.png)
 
 ## After User Input:
 
